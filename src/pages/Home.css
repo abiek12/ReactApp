@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: CircularSp,spotify-circular,Helvetica,Arial,sans-serif;
+}
+.head{
+    background:black;
+    height: 80px;
+    width: 100%;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    
+}
+.logo{
+    width: 140px;
+    height: 40px;
+    margin-right: 530px;
+
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.nav a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 16px;
+
+    
+}
