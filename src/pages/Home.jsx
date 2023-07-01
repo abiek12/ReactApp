@@ -22,6 +22,7 @@ const Home = () => {
             <Link to="/Login">Log In</Link>
           </div>
         </div>
+        <div className="main">Body</div>
       </div>
     </>
   );
