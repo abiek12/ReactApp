@@ -1,0 +1,60 @@
+body {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  background: springgreen;
+}
+.form {
+  width: 500px;
+  height: 600px;
+  background-color: white;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 50px;
+  justify-content: center;
+  display: flex;
+}
+.head {
+  text-align: center;
+  font-size: 40px;
+}
+table {
+  line-height: 2;
+  margin-bottom: 10px;
+}
+#email {
+  width: 350px;
+  height: 50px;
+  border-radius: 2px;
+  border-style: solid;
+  margin-bottom: 10px;
+}
+#password {
+  width: 350px;
+  height: 50px;
+  border-radius: 2px;
+  border-style: solid;
+}
+#button {
+  background-color: #119e43;
+  color: azure;
+  border: none;
+  width: 355px;
+  height: 50px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  cursor: pointer;
+}
+#button:hover {
+  background-color: #0b8536;
+}
+#footer {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+}
+#footer a {
+  text-decoration: none;
+  margin-left: 6px;
+}
